@@ -1,7 +1,7 @@
 all: build install
 
 build:
-	deno compile -A --unstable paddle.ts
+	deno compile -A paddle.ts
 
 install:
 	cp -R paddle.exe ~/.deno/bin/paddle.exe

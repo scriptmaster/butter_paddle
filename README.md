@@ -7,4 +7,4 @@ You only need deno and capability to download 50KB files and a few seconds for e
 # Open for improvement
 Create issues so I can improve paddle for your environment
 
-![android_paddle](android_paddle.png)
+![android_build](android_build.png)
